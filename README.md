@@ -7,7 +7,7 @@ runtime errors.
 
 Clone the starter from the **Download** link at the bottom of this page.
 
-## Instructions
+## Instruction
 
 Implement the following in the __error-handling.js__ file.
 
